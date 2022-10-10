@@ -4,6 +4,7 @@ public class Book {
     private String title;
     private String description;
     private int pubDate;
+    private int g;
     private String profile;//이건 사진일듯??
 
     public Book(){}
